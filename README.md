@@ -1,5 +1,5 @@
 # Find Factorial 
-The following program Demonstrates the actual algorithm behind finding Factorials even the number 0.
+<pre>The following program Demonstrates the actual algorithm behind finding Factorials even the number 0.
 How factorials work : 
 
 n! = n*(n-1)*(n-2)*(n-3)*......3*2*1
@@ -31,3 +31,4 @@ which gives us an equation,
 n! = (n+1)!/(n+1)...................(ii) ;  where n=0,1,2,3,.....; n>=0 ;
 
 the above equations are used in the program to find foctorials.
+</pre>
