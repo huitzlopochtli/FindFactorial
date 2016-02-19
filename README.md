@@ -25,7 +25,7 @@ we can see,
 1! = 2!/2 = (1+1)!/(1+1
 so,
 0! = 1!/1 = (1+0)!/(1+0)
--1!= 0!/0 =  which tries to devide 1 by 0 that leads to a Math Error or we can say it tends to infinity.
+-1!= 0!/0 =  which tries to devide 1 by 0 that leads to a Math Error or we can say it tends to infinity. 
 
 which gives us an equation,
 n! = (n+1)!/(n+1)...................(ii) ;  where n=0,1,2,3,.....; n>=0 ;
